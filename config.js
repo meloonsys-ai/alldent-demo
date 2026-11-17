@@ -72,6 +72,18 @@ window.CLINIC = {
     ['Жанек', 'Прошла бесплатную консультацию, мне всё досконально объяснили. Дальнейшее лечение буду проходить здесь.'],
     ['Самира', 'Дочке под Севораном пролечили 10 зубов — чётко и качественно. После лечения подарили подарок и угостили мороженым.'],
   ],
+  // Clinic's own photos from its 2GIS gallery (interior, team, equipment). No real before/after pairs yet: the site shows a labelled placeholder.
+  works: [
+    'https://i9.photo.2gis.com/photo-gallery/1f5edc73-f687-40b7-81bd-c55365de9db8_1280x.jpg',
+    'https://i0.photo.2gis.com/photo-gallery/606a4859-042d-46e3-8a21-dfde85bf6bb2_1280x.jpg',
+    'https://i2.photo.2gis.com/photo-gallery/b30e8acc-50da-4b4b-910e-f232ab24d124_1280x.jpg',
+    'https://i6.photo.2gis.com/photo-gallery/68610aa8-6a26-4f26-8564-21f99d042d18_1280x.jpg',
+    'https://i4.photo.2gis.com/photo-gallery/8c881a51-6a00-44b8-aaf8-ab8f70ef7dc8_1280x.jpg',
+    'https://i1.photo.2gis.com/photo-gallery/b591529f-0326-4ece-a21b-35cbfb453422_1280x.jpg',
+    'https://i8.photo.2gis.com/photo-gallery/e2b6f3f6-bfd8-4e07-aea1-15f54fe1f64b_1280x.jpg',
+    'https://i2.photo.2gis.com/photo-gallery/e34e38ae-4e07-4aa1-aa7f-a8732fd46873_1280x.jpg',
+  ],
+  beforeAfter: [],
   branches: [
     { address: 'ул. Кайым Мухамедханов, 6а', phone: '+7 747 251 95 95', hours: 'Ежедневно 09:00–21:00', map: 'https://2gis.kz/astana/firm/70000001089480089' },
   ],
